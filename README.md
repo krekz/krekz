@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/krekz/krekz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=krekz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krekz&theme=tokyonight&hide_border=true&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
