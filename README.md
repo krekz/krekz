@@ -35,13 +35,3 @@
   <img src="https://raw.githubusercontent.com/krekz/krekz/languages-output/languages.svg" height="150" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krekz&theme=tokyonight&hide_border=true&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krekz/krekz/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krekz/krekz/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krekz/krekz/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
